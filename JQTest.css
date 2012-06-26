@@ -1,0 +1,27 @@
+body { 
+    background-color: gray;
+} 
+
+p { 
+    color: blue; 
+} 
+
+h1 {
+    color: buel; 
+}
+
+.grid {
+    border: 5px solid red;
+}
+
+.grid tr {
+    border: 5px solid blue;
+    height: 50px;
+}
+
+.grid td {
+    border: 5px solid blue;
+    background-color: yellow;
+    width: 50px;
+    text-align: center;
+}
